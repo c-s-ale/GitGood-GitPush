@@ -34,4 +34,4 @@ That's it! You're done! You just forked a repo, made a change, and then pushed i
 
 ## Your Name Here:
 
-Chris Alexiuk! :tada:
+Chris Alexiuk! 
